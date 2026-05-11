@@ -1,0 +1,50 @@
+# Build results
+bin/
+obj/
+dist/
+
+# Visual Studio cache/options
+.vs/
+.vscode/
+.idea/
+
+# User-specific files
+*.rsuser
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Rider
+.idea/
+*.sln.iml
+
+# Local environment
+.env
+.env.local
+
+# NuGet
+*.nupkg
+*.snupkg
+.nuget/
+
+# Test Results
+TestResults/
+*.trx
+
+# Logs
+*.log
+npm-debug.log*
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+*.swp
+*.swo
+*~
+
+# Temp files
+*.tmp
+*.bak
